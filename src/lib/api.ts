@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export const api = axios.create({
-  baseURL: 'https://nlw-spacetime-server-6qj8.onrender.com',
+  baseURL: 'https://nlw-spacetime-server-vk8i.onrender.com',
 })

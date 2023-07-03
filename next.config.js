@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['avatars.githubusercontent.com', '192.168.1.15'],
+    domains: ['avatars.githubusercontent.com', 'https://nlw-spacetime-server-6qj8.onrender.com'],
   },
 }
 

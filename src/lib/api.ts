@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export const api = axios.create({
-  baseURL: 'https://inquisitive-flan-4cc38d.netlify.app/',
+  baseURL: 'https://nlw-spacetime-server-6qj8.onrender.com',
 })
